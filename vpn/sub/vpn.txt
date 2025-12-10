@@ -1,0 +1,7 @@
+# profile-title: YarickVPN Premium
+# profile-description: Если что-то не работает — пишите в @yarick_support
+# profile-brand: YarickVPN
+# support: @yarick_support
+# refresh: 6h
+
+https://sub.lastdep.net/DYS3zz8a7EyQQHhx
